@@ -17,12 +17,6 @@ Welcome to my GitHub profile! I’m a passionate **web developer** currently mas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San05M&layout=compact&hide=html,css&theme=radical&hide_title=true)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=San05M)
-
-![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=San05M&repo=repo-name&theme=radical)
-
-
-
 ---
 
 ## 💡 A bit more about me
