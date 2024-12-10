@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m a passionate **web developer** currently mas
 ## 💡 A bit more about me
 - 🌱 I’m committed to continuous learning, focusing on mastering **Angular** and **web development best practices**.  
 - 🎯 My goal is to build clean, maintainable, and scalable code for real-world applications.  
-- ✨ I’m passionate about **creative development**, from crafting unique role-playing characters to designing immersive web experiences.  
+- ✨ I’m passionate about **creative development**. 
 - 📘 I believe in the power of blending **logic with creativity**, which is reflected in both my personal projects and professional development journey.  
 
 ------
