@@ -13,9 +13,11 @@ Welcome to my GitHub profile! I’m a passionate **web developer** currently mas
 ---
 
 ## 📈 GitHub Stats
-![Sandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=San05M&show_icons=true&theme=radical&hide_title=true)
-
+![Sandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=San05M&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true&hide=prs)
+![Sandra's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=San05M&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San05M&layout=compact&hide=html,css&theme=radical&hide_title=true)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=San05M)
+
 
 ---
 
