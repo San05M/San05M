@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a passionate **web developer** currently mas
 ## 🚀 Technologies & Tools
 - **Languages**: JavaScript, TypeScript, HTML, CSS, SASS
 - **Frameworks & Libraries**: Angular, Symphony
-- **Tools**: Git, GitHub, Visual Studio Code, Figma
+- **Tools**: Git, GitHub, Visual Studio Code
 
 ---
 
