@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Sandra
 
-Welcome to my GitHub profile! I’m a passionate **web developer** currently mastering **Angular** and **SASS**. I’m constantly learning and love turning creative ideas into functional, interactive projects.
+Welcome to my GitHub profile! I’m a passionate **web developer** currently mastering **Angular**, **VUE** and **Laravel**. I’m constantly learning and love turning creative ideas into functional, interactive projects.
 
 
 ---
