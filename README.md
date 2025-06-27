@@ -12,12 +12,6 @@ Welcome to my GitHub profile! I’m a passionate **web developer** currently mas
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San05M&layout=compact&hide=html,css&theme=radical&hide_title=true)
-
----
-
 ## 💡 A bit more about me
 - 🌱 I’m committed to continuous learning, focusing on mastering **Laravel**, **Vue** and **web development best practices**.  
 - 🎯 My goal is to build clean, maintainable, and scalable code for real-world applications.  
