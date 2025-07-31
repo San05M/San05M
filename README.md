@@ -1,24 +1,22 @@
-# 👋 Hi there! I'm Sandra
+# 👋 Hi, I'm Sandra
 
-Welcome to my GitHub profile! I’m a passionate **web developer** currently mastering **VUE** and **Laravel**. I’m constantly learning and love turning creative ideas into functional, interactive projects.
-
-
----
-
-## 🚀 Technologies & Tools
-- **Languages**: JavaScript, TypeScript, PHP, HTML5, CSS, SASS
-- **Frameworks & Libraries**: Angular, Vue, Laravel and Symphony
-- **Tools**: Git, GitHub, Visual Studio Code
+I am a **software developer** with experience in **Vue.js** and **Laravel**. Currently, I am expanding my knowledge in cybersecurity to apply secure practices in software development.
 
 ---
 
-## 💡 A bit more about me
-- 🌱 I’m committed to continuous learning, focusing on mastering **Laravel**, **Vue** and **web development best practices**.  
-- 🎯 My goal is to build clean, maintainable, and scalable code for real-world applications.  
-- ✨ I’m passionate about **creative development**. 
-- 📘 I believe in the power of blending **logic with creativity**, which is reflected in both my personal projects and professional development journey.  
+## 🚀 Technologies and Tools
+- **Languages**: JavaScript, PHP, HTML5, CSS
+- **Frameworks and Libraries**: Vue.js, Laravel, Tailwind CSS
+- **Tools**: Git, GitHub, Visual Studio Code...
 
-------
+---
 
-## 🎉 Thank you for visiting!
-If you like what you see or want to collaborate, feel free to reach out! 
+## 💡 About Me
+- I am committed to continuous learning and improving my technical skills.
+- I am passionate about developing efficient and scalable web applications.
+- I believe in the importance of integrating cybersecurity into software development to create safer solutions.
+
+---
+
+## 📫 Contact
+If you would like to know more about my projects or skills, feel free to reach out to me.
